@@ -33,7 +33,8 @@ This is the **organization configuration repository** for CUNI-SPROuT. It contai
 
 The `profile/README.md` file is a special GitHub feature that creates a homepage for the entire SPROuT organization. When anyone visits [github.com/CUNI-SPROuT](https://github.com/CUNI-SPROuT), they see this profile README as the landing page.
 
-### Current Profile Features:
+### Current Profile Features
+
 - 📊 **Badge table** with course information and status
 - 📅 **5-day course structure** with detailed breakdowns
 - 🎯 **Learning outcomes** for the entire workshop
@@ -41,37 +42,13 @@ The `profile/README.md` file is a special GitHub feature that creates a homepage
 - 📚 **Resource links** to all course materials
 - 👥 **Getting started** guide for new students
 
-## 🔧 For Maintainers
-
-### Editing the Organization Profile
-
-To update what visitors see on the organization page:
-
-1. Edit [`profile/README.md`](profile/README.md)
-2. Commit and push changes
-3. Visit [github.com/CUNI-SPROuT](https://github.com/CUNI-SPROuT) to see updates
-
-### Best Practices
-
-- Keep the profile README **concise but comprehensive**
-- Include **clear navigation** to all course days
-- Maintain **badge consistency** with individual day repos
-- Update **dates and semester information** each year
-- Test all links after major changes
-
-## 📖 Related Resources
-
-- **[Course Website](https://cuni-sprout.github.io/)** - Central information hub
-- **[Documentation](https://github.com/CUNI-SPROuT/Documentation)** - Course planning materials
-- **[Day Repositories](https://github.com/orgs/CUNI-SPROuT/repositories)** - All teaching materials
-
 ## 🎓 For Students
 
-**Congratulations on finding this!** You're demonstrating exactly the kind of curiosity and exploration we encourage in SPROuT. 
+**Congratulations on finding this!** You're demonstrating exactly the kind of curiosity and exploration we encourage in SPROuT.
 
 This `.github` repository is part of the infrastructure that makes the organization work. While you won't need to edit it for coursework, understanding how GitHub organizations are structured is valuable knowledge for collaborative research.
 
-### What You've Learned:
+### What You've Learned
 
 ✅ **Special repositories** like `.github` configure organization-wide settings  
 ✅ **Profile READMEs** create landing pages for GitHub organizations  
@@ -80,10 +57,6 @@ This `.github` repository is part of the infrastructure that makes the organizat
 Keep exploring! 🚀
 
 ---
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE).
 
 ## 👤 Maintainer
 

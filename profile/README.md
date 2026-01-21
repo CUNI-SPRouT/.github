@@ -22,7 +22,6 @@ A comprehensive workshop for master's and PhD students focused on mastering **re
 
 **Institution**: Faculty of Science, Charles University  
 
-
 ## 🎓 Expected Learning Outcomes
 
 By the end of SPROuT, you'll be able to:
@@ -49,7 +48,8 @@ By the end of SPROuT, you'll be able to:
 
 Note that materials are only available for signed-up participants.
 
-### **[Day 1: ORGANISE](https://github.com/CUNI-SPROuT/SPROuT-Day1)** 🗂
+### **Day 1: ORGANISE** 🗂
+
 *Lay the foundations for tidy, reproducible research*
 
 - Introduction to Open Science and reproducibility crisis
@@ -58,9 +58,8 @@ Note that materials are only available for signed-up participants.
 - The `{here}` and `{renv}` packages
 - Best practices for file organization
 
-**[📖 Materials](https://github.com/CUNI-SPROuT/SPROuT-Day1)** | **[📄 PDF slides](https://github.com/CUNI-SPROuT/SPROuT-Day1/blob/main/Presentation/presentation.pdf)** 
+### **Day 2: ANALYSE** 📊
 
-### **[Day 2: ANALYSE](https://github.com/CUNI-SPROuT/SPROuT-Day2)** 📊
 *Write readable, transparent, scalable, and maintainable code*
 
 - R coding conventions and style guides
@@ -69,9 +68,8 @@ Note that materials are only available for signed-up participants.
 - Data manipulation with `{dplyr}` and `{tidyr}`
 - Functional programming with `{purrr}`
 
-**[📖 Materials](https://github.com/CUNI-SPROuT/SPROuT-Day2)** | **[📄 PDF slides](https://github.com/CUNI-SPROuT/SPROuT-Day2/blob/main/Presentation/presentation.pdf)** 
+### **Day 3: SAVE** 💾
 
-### **[Day 3: SAVE](https://github.com/CUNI-SPROuT/SPROuT-Day3)** 💾
 *Never lose your work again*
 
 - Version control concepts and terminology
@@ -80,9 +78,8 @@ Note that materials are only available for signed-up participants.
 - Resolving merge conflicts
 - Collaborative coding practices
 
-**[📖 Materials](https://github.com/CUNI-SPROuT/SPROuT-Day3)** | **[📄 PDF slides](https://github.com/CUNI-SPROuT/SPROuT-Day3/blob/main/Presentation/presentation.pdf)** 
+### **Day 4: COLLABORATE** 🤝
 
-### **[Day 4: COLLABORATE](https://github.com/CUNI-SPROuT/SPROuT-Day4)** 🤝
 *Work smarter together*
 
 - Collaboration structures and communication planning
@@ -91,9 +88,8 @@ Note that materials are only available for signed-up participants.
 - Task management with Issues, Labels, and Milestones
 - GitHub Projects for workflow management
 
-**[📖 Materials](https://github.com/CUNI-SPROuT/SPROuT-Day4)** | **[📄 PDF slides](https://github.com/CUNI-SPROuT/SPROuT-Day4/blob/main/Presentation/presentation.pdf)**
+### **Day 5: PUBLISH** 📖
 
-### **[Day 5: PUBLISH](https://github.com/CUNI-SPROuT/SPROuT-Day5)** 📖
 *Communicate your work transparently and reproducibly*
 
 - FAIR principles for research data
@@ -102,22 +98,7 @@ Note that materials are only available for signed-up participants.
 - Literate programming with Quarto
 - Building and deploying websites via GitHub Pages
 
-**[📖 Materials](https://github.com/CUNI-SPROuT/SPROuT-Day5)** | **[📄 PDF slides](https://github.com/CUNI-SPROuT/SPROuT-Day5/blob/main/Presentation/presentation.pdf)**
-
 ---
-
-## 📚 Additional Resources
-
-- **[Showcase Project](https://github.com/CUNI-SPROuT/Showcase)** - Complete reproducible analysis example
-- **[Version Control Playground](https://github.com/CUNI-SPROuT/VersionControl-playground)** - Safe space to practice Git
-- **[Course Forum](https://github.com/orgs/CUNI-SPROuT/discussions)** - Ask questions and share insights
-- **[Course Website](https://cuni-sprout.github.io/)** - Central information hub
-
-## 👥 Getting Started
-
-1. 🌟 **Explore the [Course Website](https://cuni-sprout.github.io/)**
-2. 💬 **Join [GitHub Discussions](https://github.com/orgs/CUNI-SPROuT/discussions)**
-3. 🎯 **Check out the [Showcase Project](https://github.com/CUNI-SPROuT/Showcase)** for inspiration
 
 ## 👤 Instructor
 
