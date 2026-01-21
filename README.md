@@ -9,7 +9,7 @@
 | **📚 Info** | **⚙️ Technical** | **✅ Status** |
 |:---:|:---:|:---:|
 | ![Type](https://img.shields.io/badge/Type-Organization_Config-gray) | ![Format](https://img.shields.io/badge/Format-Markdown-blue) | ![Status](https://img.shields.io/badge/Status-Active-green) |
-| ![Visibility](https://img.shields.io/badge/Visibility-Public-blue) | ![License](https://img.shields.io/badge/License-MIT-yellow) | ![Maintained](https://img.shields.io/badge/Maintained-Yes-green) |
+| ![Visibility](https://img.shields.io/badge/Visibility-Public-blue) | ![License](https://img.shields.io/badge/License-All_Rights_Reserved-red) | ![Maintained](https://img.shields.io/badge/Maintained-Yes-green) |
 
 ---
 
@@ -24,7 +24,7 @@ This is the **organization configuration repository** for CUNI-SPROuT. It contai
 ```
 .github/
 ├── README.md           # This file (repository documentation)
-├── LICENSE            # MIT License
+├── LICENSE            # Copyright notice
 └── profile/
     └── README.md      # Organization profile (displays on github.com/CUNI-SPROuT)
 ```
